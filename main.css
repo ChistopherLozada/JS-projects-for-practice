@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200i,300,300i,400,400i,500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+}
+/* header */
+.head-section{
+    padding: 30px 0;
+    text-align: center;
+    background: white;
+    color: rgb(38, 38, 218);
+    font-size: 30px;
+}
+.main-h1{
+    font-weight: 300;
+}
+
+/* quiz section */
+
+.section-div{
+    background-color: rgb(38, 38, 218);
+    padding: 40px 0;
+}
+.main-h2{
+    margin: 30px 0;
+    color: white;
+}
+.main-p{
+    font-size: 20px;
+    
+}
+.quiz-form{
+    color: white;
+    padding: 10px 0;
+    
+}
+.question{
+    margin: 30px 0;
+    padding-top: 30px;
+}
+.main-input{
+    margin: 10px 0;
+    color: rgba(255, 255, 255, 0.521);
+    padding: 5px 20px;
+    margin-top: px;
+}
+
+/* footer section */
+button{
+    text-align: center;
+    display: block;
+    justify-items: center;
+}
+
+/* results section */
+
+.results{
+    background-color: rgba(211, 211, 211, 0.185);
+    text-align: center;
+    padding: 40px 0;
+    
+}
+.display{
+    display:none;
+}
+span{
+    color: rgb(38, 38, 218);
+    font-size: 60px;
+}
+
+
+
